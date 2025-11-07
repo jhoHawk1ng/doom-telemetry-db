@@ -1,0 +1,7 @@
+logs/
+*.log
+telemetry_all.tsv
+telemetry_excel.csv
+*.zip
+*.7z
+*.rar
